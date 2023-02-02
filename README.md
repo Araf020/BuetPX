@@ -1,6 +1,5 @@
 
 
-[mock ui youtube](https://www.youtube.com/watch?v=tKzSnjWPtEw&t=1733s&ab_channel=AnthonySistilli)
 
 opencv image properties : https://www.javatpoint.com/opencv-basic-operation-on-images 
 
